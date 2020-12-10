@@ -1,6 +1,6 @@
 # FilePreviewer
 
-Projet made with GODO
+Projet made with GODOT
 Currently very first step, not usuable/usefull
 
 Goal is to have a "file explorer" focus on previewing files (mostly images, 3D files like FBX) used in game development
